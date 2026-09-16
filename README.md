@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：记录关联
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 031 篇 - 百家乐Ai预测分析工具：先保存输出再等待最终结果](https://github.com/TGmszrcsz/baccarat-ai-031) ｜ [下一篇：第 033 篇 - 百家乐Ai预测分析工具：待定记录应保留怎样的后续轨迹](https://github.com/TGmszrcsz/baccarat-ai-033)
+
+<!-- article-chain:end -->
+
 两张表都有局号，直接连接却产生额外行数。本篇围绕“用组合键连接分析表与结果表”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
